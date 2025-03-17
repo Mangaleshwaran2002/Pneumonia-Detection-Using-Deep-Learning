@@ -39,7 +39,7 @@ cd Pneumonia-Detection-Using-Deep-Learning
 ```
 
 2. **Place the Model File** :
-   Ensure that you have the pre-trained model `PNEUMONIA_Detection_model.h5`.you can downlaod the model from here .Place the model file in the `model` directory in the root of the project.
+   Ensure that you have the pre-trained model `PNEUMONIA_Detection_model.h5`.you can downlaod the model from **[drive](https://drive.google.com/file/d/1VTdni8rbVzBNGeJjPfNqA8EiLHBNcX_P/view?usp=sharing)** .Place the model file in the `model` directory in the root of the project.
 ```bash
 ├── model
 │   └── PNEUMONIA_Detection_model.h5
