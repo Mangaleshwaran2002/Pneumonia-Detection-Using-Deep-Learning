@@ -59,7 +59,8 @@ Upload a chest X-ray image in .jpg, .jpeg, or .png format.The model will process
 ---
 
 ### Screenshot:
-![Screenshot 1](https://raw.githubusercontent.com/Mangaleshwaran2002/Revenue-Dashboard-in-Power-BI/refs/heads/master/Dashboard.png)
+![Screenshot 1](https://raw.githubusercontent.com/Mangaleshwaran2002/Pneumonia-Detection-Using-Deep-Learning/refs/heads/master/screenshot/Screenshot%201.png)
+![Screenshot 2](https://raw.githubusercontent.com/Mangaleshwaran2002/Pneumonia-Detection-Using-Deep-Learning/refs/heads/master/screenshot/Screenshot%202.png)
 
 ---
 ## Author
